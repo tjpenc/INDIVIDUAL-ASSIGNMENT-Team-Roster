@@ -1,0 +1,31 @@
+
+{
+  "-MiBsfuTafbEQ7eAULxa": {
+    "firebaseKey": "-MiBsfuTafbEQ7eAULxa",
+    "name": "Joey Wheeler",
+    "image": "url",
+    "role": "Winner",
+    "uid": ""
+  },
+  "-MiBsfuTafbEQ7eAULxb": {
+    "firebaseKey": "-MiBsfuTafbEQ7eAULxb",
+    "name": "Mai Valentine",
+    "image": "url",
+    "role": "Girl",
+    "uid": ""
+  },
+  "-MiBsfuTafbEQ7eAULxc": {
+    "firebaseKey": "-MiBsfuTafbEQ7eAULxc",
+    "name": "Kaiba",
+    "image": "url",
+    "role": "Loser",
+    "uid": ""
+  },
+  "-MiBsfuTafbEQ7eAULxd": {
+    "firebaseKey": "-MiBsfuTafbEQ7eAULxd",
+    "name": "Yugi",
+    "image": "url",
+    "role": "divine",
+    "uid": ""
+  }
+}
