@@ -11,6 +11,7 @@ export default function MemberCard({ memberObj, onUpdate }) {
       <Card.Img variant="top" src={memberObj.image} alt={memberObj.name} style={{ height: '400px' }} />
       <Card.Body>
         <Card.Title>{memberObj.name}</Card.Title>
+        <Card.Title>{memberObj.role}</Card.Title>
         <Link href={`/members/edit/${memberObj.firebaseKey}`} passHref>
           <Button variant="info">EDIT</Button>
         </Link>
