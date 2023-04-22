@@ -48,6 +48,7 @@ export default function CreateMember({ member }) {
 
   return (
     <>
+      <h1>Add a Member</h1>
       <Form onSubmit={handleSubmit}>
         <FloatingLabel controlId="floatingInput1" label="Name" className="mb-3">
           <Form.Control

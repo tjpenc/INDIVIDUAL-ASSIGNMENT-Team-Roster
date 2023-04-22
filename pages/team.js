@@ -14,6 +14,7 @@ export default function Team() {
 
   return (
     <>
+      <h1>Team</h1>
       {members.map((member) => <MemberCard memberObj={member} onUpdate={getAllMembers} />)}
     </>
   );
