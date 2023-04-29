@@ -13,8 +13,8 @@ function Signin() {
         margin: '0 auto',
       }}
     >
-      <h1>Welcome to Team Roster</h1>
-      <p>Click the button below to login!</p>
+      <h1>Welcome to the duelist kingdom!</h1>
+      <p>Its time to duel</p>
       <Button type="button" size="lg" className="copy-btn" onClick={signIn}>
         Sign In
       </Button>
